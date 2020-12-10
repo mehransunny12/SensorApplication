@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Sensors Application</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="Available_sensors_list">Available Sensors List on this Device</string>
+    <string name="sensor_name">Sensor Name</string>
+    <string name="sensor_vender">Sensor Vender</string>
+    <string name="sensor_id">Sensor ID</string>
+    <string name="sensor_maxdelay">Sensor Max Delay</string>
+    <string name="sensor_range">Sensor Max Range</string>
+    <string name="sensor_power">Sensor Power</string>
+    <string name="sensor_resolution">Sensor Resolution</string>
+    <string name="sensor_version">Sensor Version</string>
+
+
+    <string name="accelerometer_title">Accelerometer</string>
+    <string name="accelerometer_x_value">X Value: %1$.2f</string>
+    <string name="accelerometer_y_value">Y Value: %1$.2f</string>
+    <string name="accelerometer_z_value">Z Value: %1$.2f</string>
+    <string name="timer">00:00:00:000</string>
+
+    <string name="start">START</string>
+    <string name="pause">PAUSE</string>
+    <string name="stop">STOP</string>
+
+</resources>
